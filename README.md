@@ -1,6 +1,6 @@
 ## Hi, welcome to my GitHub profile :smiley:
 
-I'm Otávio Murilo, here are some of my amosement.
+I'm Otávio Murilo, here are some of my amusement.
 
 Feel free to navigate on the public and simple projects.
 
