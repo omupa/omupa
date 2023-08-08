@@ -1,9 +1,11 @@
-## Hi, welcome to my GitHub profile :smiley:
+## Hi, welcome to my GitHub profile
 
 I'm Otávio Murilo, here are some of my amusement.
 
-Feel free to navigate on the public and simple projects.
+I'm a backend Senior Software Engineer. My main language is Java, but not only Java. I use Python for scripting and serveless, Kotlin in some backend projects, Javascript in the frontend, and Golang as a hobby.
 
-- I'm working with Java :nerd_face:
-- Currently I'm learning JVM optimization and the Java ecosystem
-- You can reach me on [LinkedIn](https://www.linkedin.com/in/omupa/)
+> My passion is technology, delivering high-quality software following the best practices. I'm a team player that likes to teach and learn everywhere.
+
+You can reach me on:
+- [LinkedIn](https://www.linkedin.com/in/omupa/)
+- [X / Twitter](https://twitter.com/oOmupa)
